@@ -1,0 +1,80 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+ctrl+D  -->for duplicate row
+ctrl+shift -->for record selection (it will take all the text between start and end)
+alt+shift --> or record selection (it will take all the text between start and end but in a straight line)
+select on the name of the function +ctrl+f12 -->go to the implementation.
+select on the name of the function +f12 -->go to the definition.
+ctrl+shift+i / f12 -->to open inspect screen.
+ctrl+r -->to open and close output window in SQL server.
+alt+f1 -->to show all the table, procedure, etc. structures.
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ctrl+; -->it will redirect to the solution search bar
+ctrl+shift+backspace  ->>show the previous place.
+ctrl+shift+v  --->we can copy 9 items and use that key to pest all that one
+ctrl+alt  -->  type the same letter in clicked the place
+alt+shift+>      sequentially select all the letter and change at a time
+write for +enter+tab  -->it will create a for loop for you.
+write for +enter+tab+tab  -->it will create a for loop with descending order for you.
+write prop +tab  -->it will create a property for you.
+after selection type   ctrl+k+s  -> after selection, you can surround with anything.  (if,switch,etc.)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+CTRL-SHIFT-F2         -- Clear all bookmarks. 
+CTRL+F2               -- Insert or remove a bookmark (toggle). 
+F2                    -- Move to next bookmark. 
+SHIFT+F2              -- Move to previous bookmark. 
+ALT+BREAK             -- Cancel a query. 
+CTRL+O                -- Connect. 
+CTRL+F4               -- Disconnect. 
+CTRL+F4               -- Disconnect and close child window. 
+ALT+F1                -- Database object information. 
+CTRL+SHIFT+DEL        -- Clear the active Editor pane. 
+CTRL+SHIFT+C          -- Comment out code. 
+CTRL+C or Ctrl+Insert -- Copy
+CTRL+X or Shift+Del   -- Cut
+SHIFT+TAB             -- Decrease indent. 
+CTRL+DEL              -- Delete through the end of a line in the Editor pane. 
+CTRL+F                -- Find. 
+CTRL+G                -- Go to a line number. 
+TAB                   -- Increase indent. 
+CTRL+SHIFT+L          -- Make selection lowercase. 
+CTRL+SHIFT+U          -- Make selection uppercase. 
+CTRL+V or Shift+Insert -- Paste. 
+CTRL+SHIFT+R          -- Remove comments. 
+F3                    -- Repeat last search or find next. 
+CTRL+H                -- Replace. 
+CTRL+A                -- Select all. 
+CTRL+Z                -- Undo. 
+F5 or Ctrl + E        -- Execute a query. 
+F1                    -- Help for Query Analyzer. 
+SHIFT+F1              -- Help for the selected Transact-SQL statement. 
+F6                    -- Switch between query and result panes. 
+Shift+F6              -- Switch panes. 
+CTRL+W                -- Window Selector. 
+CTRL+N                -- New Query window. 
+F8                    -- Object Browser (show/hide). 
+F4                    -- Object Search. 
+CTRL+F5               -- Parse the query and check syntax. 
+CTRL+P                -- Print
+CTRL+D                -- Display results in grid format. 
+CTRL+T                -- Display results in text format. 
+CTRL+B                -- Move the splitter. 
+CTRL+SHIFT+F          -- Save results to file. 
+CTRL+R                -- Show Results pane (toggle). 
+CTRL+S                -- Save
+CTRL+SHIFT+INSERT     -- Insert a template. 
+CTRL+SHIFT+M          -- Replace template parameters. 
+CTRL+L                -- Display estimated execution plan. 
+CTRL+K                -- Display execution plan (toggle ON/OFF). 
+CTRL+I                -- Index Tuning Wizard. 
+CTRL+SHIFT+S          -- Show client statistics 
+CTRL+SHIFT+T          -- Show server trace. 
+CTRL+U                -- Use database
+----------------------------------------------------------------------------------------------------------------------------------------------------
